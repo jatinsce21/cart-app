@@ -39,7 +39,7 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-Ecommerce-Site.git
+git clone git@github.com:jatinsce21/cart-app.git
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -70,7 +70,4 @@ The Backend API will be running at `localhost:5000`.
 
 <br>
 
-# Deployment
-* Render - server side
-* Vercel - client side
 
